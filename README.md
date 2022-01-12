@@ -1,4 +1,4 @@
-# InstaZoom - [Instagram photo and Video Downloader](https://instazoom.org)
+# [InstaZoom](https://instazoom.org) - Instagram photo and Video Downloader
 
 I wrote this class mainly for my [online Instagram photo, video and IGTV downloader] [1], but I thought share this piece for your own extensions.
 
