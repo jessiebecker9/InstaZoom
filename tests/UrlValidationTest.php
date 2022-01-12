@@ -1,8 +1,10 @@
 <?php
 
-namespace Marthah\InstaZoom\Tests;
+namespace 
+jessiebecker9\InstaZoom\Tests;
 
-use Marthah\InstaZoom\InstaZoom;
+use 
+jessiebecker9\InstaZoom\InstaZoom;
 use PHPUnit\Framework\TestCase;
 
 class UrlValidationTest extends TestCase {
