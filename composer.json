@@ -1,0 +1,29 @@
+{
+    "name": "marthah/instazoom",
+    "description": "Instazoom ist ein Tool zum Zoom & Instagram Profilbilder vergrößern.",
+    "type": "library",
+    "require": {
+        "php": "^7.2",
+        "ext-curl": "*"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^7.4",
+        "phpstan/phpstan": "^0.10.5"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Marthah"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "?Marthah\\InstaZoom\\": "src"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Marthah\\InstaZoom\\Tests\\": "tests"
+        }
+    }
+}
