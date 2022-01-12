@@ -1,8 +1,10 @@
 <?php
 
-namespace Marthah\InstaZoom\Tests;
+namespace 
+jessiebecker9\InstaZoom\Tests;
 
-use Marthah\InstaZoom\InstagramDownload;
+use 
+jessiebecker9\InstaZoom\InstagramDownload;
 use PHPUnit\Framework\TestCase;
 
 class UrlFetcherTest extends TestCase {
